@@ -1,0 +1,6 @@
+site_name: LighningLite Docs
+nav:
+  - Introduction: introduction.md
+  - First-Step: first-step.md
+  - About: about.md
+theme: readthedocs
